@@ -1,7 +1,3 @@
-.sec{
-    height: 500vh;
-}
-
 #logo {
     width: 125px;
     margin-left: 46px;
@@ -25,6 +21,8 @@
   }
   
   #navbar {
+    position:fixed;
+    width: 100%;
     background: #d3d3d3;
   }
   
